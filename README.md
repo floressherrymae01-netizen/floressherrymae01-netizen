@@ -3,10 +3,10 @@
 **BSIT Student · Aspiring Junior Web Developer**
 Datamex College of Saint Adeline · Las Piñas City, Philippines
 
-I have basic skills in HTML, CSS, JavaScript, Bootstrap, and Arduino. I am still a beginner, but I am eager to learn and grow.
+I have basic skills in HTML, CSS, MySQL, Arduino, and Microsoft Office. I am still a beginner, but I am eager to learn and grow.
 
 ## 🛠 Skills
-HTML · CSS · JavaScript · Bootstrap · Basic MySQL · Arduino · Git and GitHub · Microsoft Office
+HTML and CSS · Basic MySQL · Arduino · Microsoft Office (Word, Excel, PowerPoint)
 
 ## 📂 My Projects
 | Project | Description |
