@@ -15,6 +15,9 @@ HTML and CSS · Basic MySQL · Arduino · Microsoft Office (Word, Excel, PowerPo
 | [eskinita-apparel](https://github.com/floressherrymae01-netizen/eskinita-apparel) | Inventory and online ordering system (team capstone) |
 | [gas-leakage-alarm](https://github.com/floressherrymae01-netizen/gas-leakage-alarm) | Arduino gas leak detector with LCD and buzzer |
 | [onlyjobs](https://github.com/floressherrymae01-netizen/onlyjobs) | Job finder website with login flowchart |
+| [it-basics-quiz](https://github.com/floressherrymae01-netizen/it-basics-quiz) | 10-question IT quiz (practice project) |
+| [sales-analysis](https://github.com/floressherrymae01-netizen/sales-analysis) | Sample sales data with SQL queries and a chart (practice project) |
+| [allowance-tracker](https://github.com/floressherrymae01-netizen/allowance-tracker) | Income and expense tracker (practice project) |
 
 ## 📫 Contact
 - Email: floressherrymae01@gmail.com
